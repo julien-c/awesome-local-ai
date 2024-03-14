@@ -29,7 +29,7 @@ Your contributions are always welcome!
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
-- [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
+- [faraday](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
 - [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot
 - [LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library.
 - [LlamaChat](https://llamachat.app/) - LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
